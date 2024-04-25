@@ -1,7 +1,7 @@
 # Optum-Medical-Lab
 Describing the human anatomay using Augmented Reality. Made for Optum Global Hackathon 2021.
 
-## Video of working [Demo](https://optum.video.uhc.com/media/OPTUM+MEDICAL+LAB+%28Legen-waitforit-dary%29/1_bzm2ktt0)
+## Video of working [Demo](https://drive.google.com/file/d/1mRvT6FVrITvYKd2egdBKTR0T5uH5kthQ/view?usp=drive_link)
 
 ## Setting up and running the project
 - Prerequisites
